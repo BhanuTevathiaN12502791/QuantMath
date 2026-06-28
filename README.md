@@ -15,12 +15,7 @@ QUT Masters AI student. 7-Eleven worker funding the journey.
 - **Leetcode**: Daily easy/medium — building problem-solving muscle
 
 ## Structure
-git add .
-git commit -m "Day 0 - repo setup, folder structure, README"
-git push
-git add .
-git commit -m "Day 1 - Blitzstein Ch1 counting + Two Sum"
-git push
+
 
 
 
